@@ -65,9 +65,11 @@ print("\nPredictions\n",Y_pred[:5])
 
 ![image](https://github.com/user-attachments/assets/6ccaa986-dbf1-42e8-a5ae-49c7d1e5bae1)
 
-![image](https://github.com/user-attachments/assets/3ff7e902-2aea-4811-8789-30dcea8c14a5)
+![image](https://github.com/user-attachments/assets/268f83cc-5934-44b1-9347-fe33159f7d54)
 
-![image](https://github.com/user-attachments/assets/43a152f1-692c-4dfb-8f31-3884289fc2eb)
+
+![image](https://github.com/user-attachments/assets/0fcbc929-a7b2-410e-813d-88d4010ae30d)
+
 
 
 ## Result:
